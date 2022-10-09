@@ -5,7 +5,7 @@ const second = document.querySelector(".second");
 
 const expired = document.querySelector(".expired");
 
-const targetDate = new Date("Oct 8, 2022 22:55:00").getTime();
+const targetDate = new Date("Oct 8, 2023 22:55:00").getTime();
 
 let diff;
 const dateManupulator = function () {
